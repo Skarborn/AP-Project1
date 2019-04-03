@@ -1,3 +1,3 @@
-This is my new project. It is so cool!
+This is my new project. 
 
 Let's add some more text to this file.
